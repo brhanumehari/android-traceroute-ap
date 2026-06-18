@@ -145,12 +145,3 @@ Toggle theme with the sun/moon icon in the app bar.
 
 ## License
 
-This project is part of the android-traceroute-ap repository.
-
-## Author
-
-@brhanumehari
-
----
-
-**Built with ❤️ using Kotlin and Jetpack Compose**
